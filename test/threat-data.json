@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T01:20:57.826629+00:00",
- "evaluated_at": "2026-11-07T01:20:57.826629+00:00",
+ "generated_at": "2026-11-07T01:50:59.444342+00:00",
+ "evaluated_at": "2026-11-07T01:50:59.444342+00:00",
  "calibration": {
   "active": true,
   "note": "計測開始直後につき、件数ベースの判定は準備中です"
@@ -23,156 +23,191 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-06",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
      "note": "海外で悪用が確認されています。国内での発生は確認されていません。",
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-03",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
      "note": "海外で悪用が確認されています。国内での発生は確認されていません。",
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
      "published_at": "2026-11-02T00:00:00+09:00",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": [
+      "脆弱性",
+      "CVE-"
+     ]
     },
     {
      "title": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-30",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": "海外で悪用が確認されています。国内での発生は確認されていません。",
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-30",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": "海外で悪用が確認されています。国内での発生は確認されていません。",
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
      "source": "JPCERT/CC",
      "link": "https://www.jpcert.or.jp/at/2026/at260033.html",
      "published_at": "2026-10-29T15:43+09:00",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": [
+      "脆弱性",
+      "CVE-"
+     ]
     },
     {
      "title": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-29",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": "海外で悪用が確認されています。国内での発生は確認されていません。",
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
      "source": "JPCERT/CC",
      "link": "https://www.jpcert.or.jp/at/2026/at260034.html",
      "published_at": "2026-10-26T16:25+09:00",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": [
+      "脆弱性",
+      "CVE-"
+     ]
     },
     {
      "title": "PHP Memory Corruption Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-26",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": "海外で悪用が確認されています。国内での発生は確認されていません。",
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "PHP Stale Internal Request-State Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-26",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": "海外で悪用が確認されています。国内での発生は確認されていません。",
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
      "source": "JPCERT/CC",
      "link": "https://www.jpcert.or.jp/at/2026/at260030.html",
      "published_at": "2026-10-23T11:37+09:00",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J1",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "incident_report",
+     "content_signals": [
+      "不正アクセス"
+     ]
     },
     {
      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について",
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html",
      "published_at": "2026-10-21T00:00:00+09:00",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     }
    ],
    "outlook": [
@@ -272,156 +307,180 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-06",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "Apple Multiple Products Improper Authentication Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-04",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-03",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-30",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-30",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-29",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "W",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-29",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-28",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "W",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "Linux Kernel Missing Initialization of a Variable Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-28",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "W",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-27",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "W",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "Google Brotli Unchecked Return Value Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-27",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "W",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     },
     {
      "title": "PHP Memory Corruption Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-26",
-     "checked_at": "2026-11-07T01:20:57.826629+00:00",
+     "checked_at": "2026-11-07T01:50:59.444342+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
-     "stale_source": false
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
     }
    ],
    "outlook": [],
@@ -637,7 +696,7 @@
  "source_status": {
   "ipa": {
    "ok": true,
-   "last_success": "2026-11-07T01:20:57.826629+00:00",
+   "last_success": "2026-11-07T01:50:59.444342+00:00",
    "error": null,
    "detail": {
     "feeds": {
@@ -649,7 +708,7 @@
   },
   "jpcert": {
    "ok": true,
-   "last_success": "2026-11-07T01:20:57.826629+00:00",
+   "last_success": "2026-11-07T01:50:59.444342+00:00",
    "error": null,
    "detail": {
     "notices": 21
@@ -657,7 +716,7 @@
   },
   "cisa_kev": {
    "ok": true,
-   "last_success": "2026-11-07T01:20:57.826629+00:00",
+   "last_success": "2026-11-07T01:50:59.444342+00:00",
    "error": null,
    "detail": {
     "catalog_total": 1769,
@@ -666,17 +725,28 @@
   },
   "circl": {
    "ok": true,
-   "last_success": "2026-11-07T01:20:57.826629+00:00",
+   "last_success": "2026-11-07T01:50:59.444342+00:00",
    "error": null,
    "detail": {
     "recent_sample": 30,
     "critical_cvss9_in_sample": 0
+   }
+  },
+  "feodo": {
+   "ok": true,
+   "last_success": "2026-11-07T01:50:59.444342+00:00",
+   "error": null,
+   "detail": {
+    "entries_total": 5,
+    "entries_online": 1,
+    "source_updated_at": "2026-03-04 14:28:39 UTC"
    }
   }
  },
  "counts_context": {
   "kev": {
    "catalog_total": 1769,
+   "ransomware_known_total": 361,
    "added_last_7d": 3,
    "added_prev_7d": 10,
    "baseline_weekly_median": 7
@@ -685,6 +755,59 @@
    "recent_sample": 30,
    "critical_cvss9_in_sample": 0
   }
+ },
+ "botnet": {
+  "source": "Feodo Tracker (abuse.ch)",
+  "licence": "CC0（abuse.ch 利用規約 §3.4）",
+  "definition": "recommended blocklist（応答が確認されたC2）",
+  "world_c2": 1,
+  "japan_located_c2": 0,
+  "by_family": {
+   "QakBot": 1
+  },
+  "source_updated_at": "2026-03-04 14:28:39 UTC",
+  "fetched_at": "2026-11-07T01:50:59.444342+00:00",
+  "held": false,
+  "unavailable": false
+ },
+ "phishing_jp": {
+  "brands": 105,
+  "definition": "報告件数 = 個人・事業者・関連団体等から受領した報告（1メール1件または1 URL 1件で集計。被害件数ではありません）。URL件数 = 報告されたURLのうち過去に報告されていない新規のURL数。",
+  "new_urls": 49032,
+  "period": "2026年9月",
+  "reports": 94661,
+  "source": "フィッシング対策協議会",
+  "source_url": "https://www.antiphishing.jp/report/monthly/202609.html",
+  "update_cadence": "月次：毎月中旬〜下旬に前月分が公開される。https://www.antiphishing.jp/report/monthly/ の最新月のページから 報告件数 / 新規URL件数 / 悪用ブランド件数 を転記し、period と source_url を差し替える。",
+  "updated_at": "2026-11-07",
+  "usage_terms": "出典明記（協議会名・出典元URL）＋本文と区別した掲載が条件（協議会FAQ「コンテンツ利用について」）。"
+ },
+ "jpcert_quarterly": {
+  "definition": "JPCERT/CCに報告されたインシデントのカテゴリー別件数（報告された件数のみ。実際に発生した攻撃の総数ではありません）。",
+  "items": {
+   "dos_ddos": {
+    "count": 1,
+    "label": "DoS/DDoSインシデント報告件数",
+    "period": "2026年4月〜6月",
+    "prev_count": 4,
+    "prev_period": "2026年1月〜3月",
+    "source_url": "https://www.jpcert.or.jp/qr/2026/QR_FY2026-Q1.pdf"
+   },
+   "website_defacement": {
+    "count": 181,
+    "label": "Webサイト改ざん報告件数",
+    "period": "2026年4月〜6月",
+    "prev_count": 90,
+    "prev_period": "2026年1月〜3月",
+    "source_url": "https://www.jpcert.or.jp/qr/2026/QR_FY2026-Q1.pdf"
+   }
+  },
+  "public_display_note": "TEST PATH ONLY: 公開ページへの掲載前に JPCERT/CC 広報（pr@jpcert.or.jp）への確認連絡が必要（レポート本文の依頼事項）。",
+  "source": "JPCERT/CC",
+  "source_document": "JPCERT/CC 四半期レポート",
+  "source_url": "https://www.jpcert.or.jp/qr/",
+  "update_cadence": "四半期：各四半期終了の約2〜3週間後に四半期レポートPDFが公開される。表「報告を受けたインシデントのカテゴリーごとの数」から DoS/DDoS と Webサイト改ざん の合計を転記し、period / prev_* / source_url を差し替える。",
+  "updated_at": "2026-11-07"
  },
  "red_analysis": {
   "japan": [
