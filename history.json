@@ -2,16 +2,21 @@
  {
   "date": "2026-11-06",
   "japan": "YELLOW",
-  "world": "YELLOW"
+  "world": "YELLOW",
+  "kev_total": 1769
  },
  {
   "date": "2026-11-07",
   "japan": "YELLOW",
-  "world": "YELLOW"
+  "world": "YELLOW",
+  "kev_total": 1769
  },
  {
   "date": "2026-11-08",
   "japan": "YELLOW",
-  "world": "YELLOW"
+  "world": "YELLOW",
+  "kev_total": 1769,
+  "jpcert_notices": 21,
+  "ipa_notices": 207
  }
 ]
