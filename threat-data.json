@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T23:19:21.173710+00:00",
- "evaluated_at": "2026-11-10T23:19:21.173710+00:00",
+ "generated_at": "2026-11-11T02:40:57.672079+00:00",
+ "evaluated_at": "2026-11-11T02:40:57.672079+00:00",
  "calibration": {
   "active": true,
   "note": "計測開始直後につき、件数ベースの判定は準備中です"
@@ -19,11 +19,29 @@
    "conflict_note": null,
    "evidence": [
     {
+     "title": "Weekly Report: NCOが「個人情報の漏えい等につながる不正アクセスへの対策について - ウェブサイトやモバイルアプリに関する基本的な対策の徹底 -」を公開",
+     "source": "JPCERT/CC",
+     "link": "https://www.jpcert.or.jp/wr/2026/wr261111.html#14",
+     "published_at": "2026-11-11T09:07+09:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
+     "evidence_class": "J1",
+     "lifecycle": "新規",
+     "severity_original": "Weekly Report",
+     "note": null,
+     "ransomware_tier": null,
+     "stale_source": false,
+     "content_type": "incident_report",
+     "content_signals": [
+      "不正アクセス",
+      "漏えい"
+     ]
+    },
+    {
      "title": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -38,7 +56,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-06",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -53,7 +71,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-03",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -68,7 +86,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
      "published_at": "2026-11-02T00:00:00+09:00",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
@@ -86,7 +104,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-30",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -101,7 +119,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-30",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -116,7 +134,7 @@
      "source": "JPCERT/CC",
      "link": "https://www.jpcert.or.jp/at/2026/at260033.html",
      "published_at": "2026-10-29T15:43+09:00",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
@@ -134,7 +152,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-29",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -149,7 +167,7 @@
      "source": "JPCERT/CC",
      "link": "https://www.jpcert.or.jp/at/2026/at260034.html",
      "published_at": "2026-10-26T16:25+09:00",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
@@ -167,7 +185,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-26",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -182,7 +200,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-10-26",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -191,32 +209,9 @@
      "stale_source": false,
      "content_type": "vulnerability_advisory",
      "content_signals": []
-    },
-    {
-     "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
-     "source": "JPCERT/CC",
-     "link": "https://www.jpcert.or.jp/at/2026/at260030.html",
-     "published_at": "2026-10-23T11:37+09:00",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
-     "evidence_class": "J1",
-     "lifecycle": "継続中",
-     "severity_original": "注意喚起",
-     "note": null,
-     "ransomware_tier": null,
-     "stale_source": false,
-     "content_type": "incident_report",
-     "content_signals": [
-      "不正アクセス"
-     ]
     }
    ],
    "outlook": [
-    {
-     "text": "海外で悪用が確認された脆弱性があります(Apple Multiple Products)。国内での発生は確認されていません。",
-     "tag": "海外の動向",
-     "basis_link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-     "expires": null
-    },
     {
      "text": "海外で悪用が確認された脆弱性があります(GPUStack)。国内での発生は確認されていません。",
      "tag": "海外の動向",
@@ -237,6 +232,12 @@
     },
     {
      "text": "海外で悪用が確認された脆弱性があります(IBM Aspera Faspex)。国内での発生は確認されていません。",
+     "tag": "海外の動向",
+     "basis_link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+     "expires": null
+    },
+    {
+     "text": "海外で悪用が確認された脆弱性があります(Openwave Messaging Limited Webtop Media Transcoder)。国内での発生は確認されていません。",
      "tag": "海外の動向",
      "basis_link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "expires": null
@@ -341,7 +342,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -356,7 +357,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -371,7 +372,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -386,7 +387,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -401,7 +402,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -416,7 +417,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -431,7 +432,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-09",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -446,7 +447,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-09",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -461,7 +462,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-09",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -476,7 +477,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-09",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -491,7 +492,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-06",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -506,9 +507,9 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-04",
-     "checked_at": "2026-11-10T23:19:21.173710+00:00",
+     "checked_at": "2026-11-11T02:40:57.672079+00:00",
      "evidence_class": "W",
-     "lifecycle": "新規",
+     "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
@@ -648,9 +649,69 @@
  "notices_board": [
   {
    "source": "JPCERT/CC",
+   "title": "Weekly Report: Cloud Software GroupのXenServerに複数の脆弱性",
+   "link": "https://www.jpcert.or.jp/wr/2026/wr261111.html#1",
+   "published_at": "2026-11-11T09:07+09:00",
+   "severity_original": "Weekly Report",
+   "content_type": "vulnerability_advisory",
+   "stale_source": false,
+   "evidence_class": "J2"
+  },
+  {
+   "source": "JPCERT/CC",
+   "title": "Weekly Report: Puppet ServerおよびOpenVoxに複数の脆弱性",
+   "link": "https://www.jpcert.or.jp/wr/2026/wr261111.html#2",
+   "published_at": "2026-11-11T09:07+09:00",
+   "severity_original": "Weekly Report",
+   "content_type": "vulnerability_advisory",
+   "stale_source": false,
+   "evidence_class": "J2"
+  },
+  {
+   "source": "JPCERT/CC",
+   "title": "Weekly Report: Airbyteに任意のコード実行につながる脆弱性",
+   "link": "https://www.jpcert.or.jp/wr/2026/wr261111.html#3",
+   "published_at": "2026-11-11T09:07+09:00",
+   "severity_original": "Weekly Report",
+   "content_type": "vulnerability_advisory",
+   "stale_source": false,
+   "evidence_class": "J2"
+  },
+  {
+   "source": "JPCERT/CC",
+   "title": "Weekly Report: Firefoxにバッファエラーの脆弱性",
+   "link": "https://www.jpcert.or.jp/wr/2026/wr261111.html#4",
+   "published_at": "2026-11-11T09:07+09:00",
+   "severity_original": "Weekly Report",
+   "content_type": "vulnerability_advisory",
+   "stale_source": false,
+   "evidence_class": "J2"
+  },
+  {
+   "source": "JPCERT/CC",
+   "title": "Weekly Report: 複数のManageEngine製品に脆弱性",
+   "link": "https://www.jpcert.or.jp/wr/2026/wr261111.html#5",
+   "published_at": "2026-11-11T09:07+09:00",
+   "severity_original": "Weekly Report",
+   "content_type": "vulnerability_advisory",
+   "stale_source": false,
+   "evidence_class": "J2"
+  },
+  {
+   "source": "JPCERT/CC",
+   "title": "Weekly Report: 複数のZyxel Networks製品に脆弱性",
+   "link": "https://www.jpcert.or.jp/wr/2026/wr261111.html#6",
+   "published_at": "2026-11-11T09:07+09:00",
+   "severity_original": "Weekly Report",
+   "content_type": "vulnerability_advisory",
+   "stale_source": false,
+   "evidence_class": "J2"
+  },
+  {
+   "source": "JPCERT/CC",
    "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
-   "link": "https://www.jpcert.or.jp/wr/2026/wr261105.html#1",
-   "published_at": "2026-11-05T09:52+09:00",
+   "link": "https://www.jpcert.or.jp/wr/2026/wr261111.html#7",
+   "published_at": "2026-11-11T09:07+09:00",
    "severity_original": "Weekly Report",
    "content_type": "vulnerability_advisory",
    "stale_source": false,
@@ -658,69 +719,9 @@
   },
   {
    "source": "JPCERT/CC",
-   "title": "Weekly Report: Sophos UTMに任意のコード実行につながる脆弱性",
-   "link": "https://www.jpcert.or.jp/wr/2026/wr261105.html#2",
-   "published_at": "2026-11-05T09:52+09:00",
-   "severity_original": "Weekly Report",
-   "content_type": "vulnerability_advisory",
-   "stale_source": false,
-   "evidence_class": "J2"
-  },
-  {
-   "source": "JPCERT/CC",
-   "title": "Weekly Report: Cisco Secure Firewall ASAおよびFTD Softwareにサービス運用妨害（DoS）の脆弱性",
-   "link": "https://www.jpcert.or.jp/wr/2026/wr261105.html#3",
-   "published_at": "2026-11-05T09:52+09:00",
-   "severity_original": "Weekly Report",
-   "content_type": "vulnerability_advisory",
-   "stale_source": false,
-   "evidence_class": "J2"
-  },
-  {
-   "source": "JPCERT/CC",
-   "title": "Weekly Report: Jenkinsに複数の脆弱性",
-   "link": "https://www.jpcert.or.jp/wr/2026/wr261105.html#4",
-   "published_at": "2026-11-05T09:52+09:00",
-   "severity_original": "Weekly Report",
-   "content_type": "vulnerability_advisory",
-   "stale_source": false,
-   "evidence_class": "J2"
-  },
-  {
-   "source": "JPCERT/CC",
-   "title": "Weekly Report: WordPressに複数の脆弱性",
-   "link": "https://www.jpcert.or.jp/wr/2026/wr261105.html#5",
-   "published_at": "2026-11-05T09:52+09:00",
-   "severity_original": "Weekly Report",
-   "content_type": "vulnerability_advisory",
-   "stale_source": false,
-   "evidence_class": "J2"
-  },
-  {
-   "source": "JPCERT/CC",
-   "title": "Weekly Report: 複数のAdobe製品に脆弱性",
-   "link": "https://www.jpcert.or.jp/wr/2026/wr261105.html#6",
-   "published_at": "2026-11-05T09:52+09:00",
-   "severity_original": "Weekly Report",
-   "content_type": "vulnerability_advisory",
-   "stale_source": false,
-   "evidence_class": "J2"
-  },
-  {
-   "source": "JPCERT/CC",
-   "title": "Weekly Report: ヤマハ製NWR100に複数の脆弱性",
-   "link": "https://www.jpcert.or.jp/wr/2026/wr261105.html#7",
-   "published_at": "2026-11-05T09:52+09:00",
-   "severity_original": "Weekly Report",
-   "content_type": "vulnerability_advisory",
-   "stale_source": false,
-   "evidence_class": "J2"
-  },
-  {
-   "source": "JPCERT/CC",
-   "title": "Weekly Report: 複数のWatchGuard製品に脆弱性",
-   "link": "https://www.jpcert.or.jp/wr/2026/wr261105.html#8",
-   "published_at": "2026-11-05T09:52+09:00",
+   "title": "Weekly Report: 複数のAbsolute Security製品に脆弱性",
+   "link": "https://www.jpcert.or.jp/wr/2026/wr261111.html#8",
+   "published_at": "2026-11-11T09:07+09:00",
    "severity_original": "Weekly Report",
    "content_type": "vulnerability_advisory",
    "stale_source": false,
@@ -730,7 +731,7 @@
  "source_status": {
   "ipa": {
    "ok": true,
-   "last_success": "2026-11-10T23:19:21.173710+00:00",
+   "last_success": "2026-11-11T02:40:57.672079+00:00",
    "error": null,
    "detail": {
     "feeds": {
@@ -742,15 +743,15 @@
   },
   "jpcert": {
    "ok": true,
-   "last_success": "2026-11-10T23:19:21.173710+00:00",
+   "last_success": "2026-11-11T02:40:57.672079+00:00",
    "error": null,
    "detail": {
-    "notices": 21
+    "notices": 20
    }
   },
   "cisa_kev": {
    "ok": true,
-   "last_success": "2026-11-10T23:19:21.173710+00:00",
+   "last_success": "2026-11-11T02:40:57.672079+00:00",
    "error": null,
    "detail": {
     "catalog_total": 1779,
@@ -759,7 +760,7 @@
   },
   "circl": {
    "ok": true,
-   "last_success": "2026-11-10T23:19:21.173710+00:00",
+   "last_success": "2026-11-11T02:40:57.672079+00:00",
    "error": null,
    "detail": {
     "recent_sample": 30,
@@ -768,7 +769,7 @@
   },
   "feodo": {
    "ok": true,
-   "last_success": "2026-11-10T23:19:21.173710+00:00",
+   "last_success": "2026-11-11T02:40:57.672079+00:00",
    "error": null,
    "detail": {
     "entries_total": 5,
@@ -806,9 +807,9 @@
     "2026-09-27": 2
    },
    "ransomware_known_total": 361,
-   "added_last_7d": 13,
-   "added_prev_7d": 8,
-   "baseline_weekly_median": 0
+   "added_last_7d": 12,
+   "added_prev_7d": 7,
+   "baseline_weekly_median": 7
   },
   "circl": {
    "recent_sample": 30,
@@ -825,7 +826,7 @@
    "QakBot": 1
   },
   "source_updated_at": "2026-03-04 14:28:39 UTC",
-  "fetched_at": "2026-11-10T23:19:21.173710+00:00",
+  "fetched_at": "2026-11-11T02:40:57.672079+00:00",
   "held": false,
   "unavailable": false
  },
@@ -869,8 +870,8 @@
   "updated_at": "2026-11-09"
  },
  "latest_update": {
-  "at": "2026-11-10T23:19:21.173710+00:00",
-  "japan_new": 0,
+  "at": "2026-11-11T02:40:57.672079+00:00",
+  "japan_new": 1,
   "world_new": 0
  },
  "red_analysis": {
@@ -1727,7 +1728,7 @@
    "japan": "YELLOW",
    "world": "YELLOW",
    "kev_total": 1779,
-   "jpcert_notices": 21,
+   "jpcert_notices": 20,
    "ipa_notices": 207
   }
  ]
