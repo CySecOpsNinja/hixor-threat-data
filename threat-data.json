@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T02:18:44.299076+00:00",
- "evaluated_at": "2026-11-20T02:18:44.299076+00:00",
+ "generated_at": "2026-11-20T05:41:03.961037+00:00",
+ "evaluated_at": "2026-11-20T05:41:03.961037+00:00",
  "calibration": {
   "active": false,
   "note": null
@@ -19,11 +19,46 @@
    "conflict_note": null,
    "evidence": [
     {
+     "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
+     "source": "JPCERT/CC",
+     "link": "https://www.jpcert.or.jp/at/2026/at260033.html",
+     "published_at": "2026-11-20T13:40+09:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
+     "evidence_class": "J2",
+     "lifecycle": "新規",
+     "severity_original": "注意喚起",
+     "note": null,
+     "ransomware_tier": null,
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": [
+      "脆弱性",
+      "CVE-"
+     ]
+    },
+    {
+     "title": "PHPの脆弱性対策について（2026年11月）",
+     "source": "IPA",
+     "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261120.html",
+     "published_at": "2026-11-20T00:00:00+09:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
+     "evidence_class": "J2",
+     "lifecycle": "新規",
+     "severity_original": "注意喚起",
+     "note": null,
+     "ransomware_tier": null,
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": [
+      "脆弱性"
+     ]
+    },
+    {
      "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
      "published_at": "2026-11-19T00:00:00+09:00",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -38,7 +73,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
      "published_at": "2026-11-19T00:00:00+09:00",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -56,7 +91,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
      "published_at": "2026-11-18T00:00:00+09:00",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -73,7 +108,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -88,7 +123,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-13",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -103,7 +138,7 @@
      "source": "JPCERT/CC",
      "link": "https://www.jpcert.or.jp/at/2026/at260035.html",
      "published_at": "2026-11-11T11:20+09:00",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
@@ -120,7 +155,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/1111-ms.html",
      "published_at": "2026-11-11T00:00:00+09:00",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
@@ -137,7 +172,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -152,7 +187,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-06",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -167,40 +202,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-03",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
-     "evidence_class": "J2",
-     "lifecycle": "継続中（対策なし）",
-     "severity_original": "悪用確認済み",
-     "note": "海外で悪用が確認されています。国内での発生は確認されていません。",
-     "ransomware_tier": null,
-     "stale_source": false,
-     "content_type": "vulnerability_advisory",
-     "content_signals": []
-    },
-    {
-     "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
-     "source": "IPA",
-     "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
-     "published_at": "2026-11-02T00:00:00+09:00",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
-     "evidence_class": "J2",
-     "lifecycle": "継続中",
-     "severity_original": "注意喚起",
-     "note": null,
-     "ransomware_tier": null,
-     "stale_source": false,
-     "content_type": "vulnerability_advisory",
-     "content_signals": [
-      "脆弱性",
-      "CVE-"
-     ]
-    },
-    {
-     "title": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
-     "source": "CISA KEV",
-     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-     "published_at": "2026-10-30",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -336,7 +338,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -351,7 +353,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -366,7 +368,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -381,7 +383,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -396,7 +398,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-17",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -411,7 +413,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-13",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "W",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -426,7 +428,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-13",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -441,7 +443,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -456,7 +458,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "W",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -471,7 +473,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "W",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -486,7 +488,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "W",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -501,7 +503,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-20T02:18:44.299076+00:00",
+     "checked_at": "2026-11-20T05:41:03.961037+00:00",
      "evidence_class": "W",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -659,6 +661,26 @@
  ],
  "notices_board": [
   {
+   "source": "JPCERT/CC",
+   "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
+   "link": "https://www.jpcert.or.jp/at/2026/at260033.html",
+   "published_at": "2026-11-20T13:40+09:00",
+   "severity_original": "注意喚起",
+   "content_type": "vulnerability_advisory",
+   "stale_source": false,
+   "evidence_class": "J2"
+  },
+  {
+   "source": "IPA",
+   "title": "PHPの脆弱性対策について（2026年11月）",
+   "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261120.html",
+   "published_at": "2026-11-20T00:00:00+09:00",
+   "severity_original": "注意喚起",
+   "content_type": "vulnerability_advisory",
+   "stale_source": false,
+   "evidence_class": "J2"
+  },
+  {
    "source": "IPA",
    "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
    "link": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
@@ -717,44 +739,24 @@
    "content_type": "vulnerability_advisory",
    "stale_source": false,
    "evidence_class": "J2"
-  },
-  {
-   "source": "JPCERT/CC",
-   "title": "Weekly Report: PostgreSQLに複数の脆弱性",
-   "link": "https://www.jpcert.or.jp/wr/2026/wr261118.html#5",
-   "published_at": "2026-11-18T09:15+09:00",
-   "severity_original": "Weekly Report",
-   "content_type": "vulnerability_advisory",
-   "stale_source": false,
-   "evidence_class": "J2"
-  },
-  {
-   "source": "JPCERT/CC",
-   "title": "Weekly Report: Apache HTTP Server 2.4に複数の脆弱性",
-   "link": "https://www.jpcert.or.jp/wr/2026/wr261118.html#6",
-   "published_at": "2026-11-18T09:15+09:00",
-   "severity_original": "Weekly Report",
-   "content_type": "vulnerability_advisory",
-   "stale_source": false,
-   "evidence_class": "J2"
   }
  ],
  "source_status": {
   "ipa": {
    "ok": true,
-   "last_success": "2026-11-20T02:18:44.299076+00:00",
+   "last_success": "2026-11-20T05:41:03.961037+00:00",
    "error": null,
    "detail": {
     "feeds": {
-     "alert.rdf": 260,
+     "alert.rdf": 261,
      "alert-rss.rdf": 30
     },
-    "notices": 211
+    "notices": 212
    }
   },
   "jpcert": {
    "ok": true,
-   "last_success": "2026-11-20T02:18:44.299076+00:00",
+   "last_success": "2026-11-20T05:41:03.961037+00:00",
    "error": null,
    "detail": {
     "notices": 31
@@ -762,7 +764,7 @@
   },
   "cisa_kev": {
    "ok": true,
-   "last_success": "2026-11-20T02:18:44.299076+00:00",
+   "last_success": "2026-11-20T05:41:03.961037+00:00",
    "error": null,
    "detail": {
     "catalog_total": 1786,
@@ -771,7 +773,7 @@
   },
   "circl": {
    "ok": true,
-   "last_success": "2026-11-20T02:18:44.299076+00:00",
+   "last_success": "2026-11-20T05:41:03.961037+00:00",
    "error": null,
    "detail": {
     "recent_sample": 30,
@@ -780,7 +782,7 @@
   },
   "feodo": {
    "ok": true,
-   "last_success": "2026-11-20T02:18:44.299076+00:00",
+   "last_success": "2026-11-20T05:41:03.961037+00:00",
    "error": null,
    "detail": {
     "entries_total": 5,
@@ -834,7 +836,7 @@
    "QakBot": 1
   },
   "source_updated_at": "2026-03-04 14:28:39 UTC",
-  "fetched_at": "2026-11-20T02:18:44.299076+00:00",
+  "fetched_at": "2026-11-20T05:41:03.961037+00:00",
   "held": false,
   "unavailable": false
  },
@@ -878,8 +880,8 @@
   "updated_at": "2026-11-09"
  },
  "latest_update": {
-  "at": "2026-11-20T02:18:44.299076+00:00",
-  "japan_new": 0,
+  "at": "2026-11-20T05:41:03.961037+00:00",
+  "japan_new": 1,
   "world_new": 0
  },
  "red_analysis": {
@@ -1649,7 +1651,7 @@
    "world": "YELLOW",
    "kev_total": 1786,
    "jpcert_notices": 31,
-   "ipa_notices": 211
+   "ipa_notices": 212
   }
  ]
 }
