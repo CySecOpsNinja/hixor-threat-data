@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T18:25:57.453036+00:00",
- "evaluated_at": "2026-11-20T18:25:57.453036+00:00",
+ "generated_at": "2026-11-20T20:16:15.925239+00:00",
+ "evaluated_at": "2026-11-20T20:16:15.925239+00:00",
  "calibration": {
   "active": false,
   "note": null
@@ -23,7 +23,7 @@
      "source": "JPCERT/CC",
      "link": "https://www.jpcert.or.jp/at/2026/at260033.html",
      "published_at": "2026-11-20T13:40+09:00",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -41,7 +41,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261120.html",
      "published_at": "2026-11-20T00:00:00+09:00",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -58,7 +58,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
      "published_at": "2026-11-19T00:00:00+09:00",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -73,7 +73,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
      "published_at": "2026-11-19T00:00:00+09:00",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -91,7 +91,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
      "published_at": "2026-11-18T00:00:00+09:00",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -108,7 +108,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -123,7 +123,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-13",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -138,7 +138,7 @@
      "source": "JPCERT/CC",
      "link": "https://www.jpcert.or.jp/at/2026/at260035.html",
      "published_at": "2026-11-11T11:20+09:00",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
@@ -155,7 +155,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/1111-ms.html",
      "published_at": "2026-11-11T00:00:00+09:00",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
@@ -172,7 +172,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -187,7 +187,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-06",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -202,7 +202,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-03",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -234,6 +234,12 @@
     },
     {
      "text": "海外で悪用が確認された脆弱性があります(Apache Axis)。国内での発生は確認されていません。",
+     "tag": "海外の動向",
+     "basis_link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+     "expires": null
+    },
+    {
+     "text": "海外で悪用が確認された脆弱性があります(Apache Roller)。国内での発生は確認されていません。",
      "tag": "海外の動向",
      "basis_link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "expires": null
@@ -334,11 +340,71 @@
    "conflict_note": null,
    "evidence": [
     {
+     "title": "Apache Roller Deserialization of Untrusted Data Vulnerability",
+     "source": "CISA KEV",
+     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+     "published_at": "2026-11-20",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
+     "evidence_class": "W",
+     "lifecycle": "新規",
+     "severity_original": "悪用確認済み",
+     "note": null,
+     "ransomware_tier": null,
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
+    },
+    {
+     "title": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+     "source": "CISA KEV",
+     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+     "published_at": "2026-11-20",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
+     "evidence_class": "W",
+     "lifecycle": "新規",
+     "severity_original": "悪用確認済み",
+     "note": null,
+     "ransomware_tier": null,
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
+    },
+    {
+     "title": "SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
+     "source": "CISA KEV",
+     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+     "published_at": "2026-11-20",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
+     "evidence_class": "W",
+     "lifecycle": "新規",
+     "severity_original": "悪用確認済み",
+     "note": null,
+     "ransomware_tier": null,
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
+    },
+    {
+     "title": "Cisco Expressway Series Use of Hard-coded Credentials Vulnerability",
+     "source": "CISA KEV",
+     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+     "published_at": "2026-11-20",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
+     "evidence_class": "W",
+     "lifecycle": "新規",
+     "severity_original": "悪用確認済み",
+     "note": null,
+     "ransomware_tier": null,
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
+    },
+    {
      "title": "Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -353,7 +419,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -368,7 +434,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -383,7 +449,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -398,7 +464,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-17",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -413,7 +479,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-13",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "W",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -428,7 +494,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-13",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -443,68 +509,8 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
+     "checked_at": "2026-11-20T20:16:15.925239+00:00",
      "evidence_class": "J2",
-     "lifecycle": "継続中（対策なし）",
-     "severity_original": "悪用確認済み",
-     "note": null,
-     "ransomware_tier": null,
-     "stale_source": false,
-     "content_type": "vulnerability_advisory",
-     "content_signals": []
-    },
-    {
-     "title": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
-     "source": "CISA KEV",
-     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-     "published_at": "2026-11-10",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
-     "evidence_class": "W",
-     "lifecycle": "継続中（対策なし）",
-     "severity_original": "悪用確認済み",
-     "note": null,
-     "ransomware_tier": null,
-     "stale_source": false,
-     "content_type": "vulnerability_advisory",
-     "content_signals": []
-    },
-    {
-     "title": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
-     "source": "CISA KEV",
-     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-     "published_at": "2026-11-10",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
-     "evidence_class": "W",
-     "lifecycle": "継続中（対策なし）",
-     "severity_original": "悪用確認済み",
-     "note": null,
-     "ransomware_tier": null,
-     "stale_source": false,
-     "content_type": "vulnerability_advisory",
-     "content_signals": []
-    },
-    {
-     "title": "Barracuda Networks Multiple Products OS Command Injection Vulnerability",
-     "source": "CISA KEV",
-     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-     "published_at": "2026-11-10",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
-     "evidence_class": "W",
-     "lifecycle": "継続中（対策なし）",
-     "severity_original": "悪用確認済み",
-     "note": null,
-     "ransomware_tier": null,
-     "stale_source": false,
-     "content_type": "vulnerability_advisory",
-     "content_signals": []
-    },
-    {
-     "title": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-     "source": "CISA KEV",
-     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-     "published_at": "2026-11-10",
-     "checked_at": "2026-11-20T18:25:57.453036+00:00",
-     "evidence_class": "W",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": null,
@@ -744,7 +750,7 @@
  "source_status": {
   "ipa": {
    "ok": true,
-   "last_success": "2026-11-20T18:25:57.453036+00:00",
+   "last_success": "2026-11-20T20:16:15.925239+00:00",
    "error": null,
    "detail": {
     "feeds": {
@@ -756,7 +762,7 @@
   },
   "jpcert": {
    "ok": true,
-   "last_success": "2026-11-20T18:25:57.453036+00:00",
+   "last_success": "2026-11-20T20:16:15.925239+00:00",
    "error": null,
    "detail": {
     "notices": 31
@@ -764,16 +770,16 @@
   },
   "cisa_kev": {
    "ok": true,
-   "last_success": "2026-11-20T18:25:57.453036+00:00",
+   "last_success": "2026-11-20T20:16:15.925239+00:00",
    "error": null,
    "detail": {
-    "catalog_total": 1786,
-    "recent_kept": 52
+    "catalog_total": 1790,
+    "recent_kept": 56
    }
   },
   "circl": {
    "ok": true,
-   "last_success": "2026-11-20T18:25:57.453036+00:00",
+   "last_success": "2026-11-20T20:16:15.925239+00:00",
    "error": null,
    "detail": {
     "recent_sample": 30,
@@ -782,7 +788,7 @@
   },
   "feodo": {
    "ok": true,
-   "last_success": "2026-11-20T18:25:57.453036+00:00",
+   "last_success": "2026-11-20T20:16:15.925239+00:00",
    "error": null,
    "detail": {
     "entries_total": 5,
@@ -793,8 +799,9 @@
  },
  "counts_context": {
   "kev": {
-   "catalog_total": 1786,
+   "catalog_total": 1790,
    "daily_added": {
+    "2026-11-20": 4,
     "2026-11-18": 4,
     "2026-11-17": 1,
     "2026-11-13": 2,
@@ -817,7 +824,7 @@
     "2026-10-08": 5
    },
    "ransomware_known_total": 361,
-   "added_last_7d": 7,
+   "added_last_7d": 11,
    "added_prev_7d": 11,
    "baseline_weekly_median": 7
   },
@@ -836,7 +843,7 @@
    "QakBot": 1
   },
   "source_updated_at": "2026-03-04 14:28:39 UTC",
-  "fetched_at": "2026-11-20T18:25:57.453036+00:00",
+  "fetched_at": "2026-11-20T20:16:15.925239+00:00",
   "held": false,
   "unavailable": false
  },
@@ -880,9 +887,9 @@
   "updated_at": "2026-11-09"
  },
  "latest_update": {
-  "at": "2026-11-20T18:25:57.453036+00:00",
+  "at": "2026-11-20T20:16:15.925239+00:00",
   "japan_new": 0,
-  "world_new": 0
+  "world_new": 4
  },
  "red_analysis": {
   "japan": [
@@ -1198,6 +1205,46 @@
    },
    {
     "item": "CVE-2026-90436",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
+   },
+   {
+    "item": "CVE-2026-129448",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
+   },
+   {
+    "item": "CVE-2026-123890",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
+   },
+   {
+    "item": "CVE-2025-42884",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
+   },
+   {
+    "item": "CVE-2026-76466",
     "key1": [],
     "key2": [],
     "key1_refs": [],
@@ -1527,6 +1574,46 @@
     "japan_relevant": false,
     "binding_note": null,
     "geography": null
+   },
+   {
+    "item": "CVE-2026-129448",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
+   },
+   {
+    "item": "CVE-2026-123890",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
+   },
+   {
+    "item": "CVE-2025-42884",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
+   },
+   {
+    "item": "CVE-2026-76466",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
    }
   ]
  },
@@ -1657,7 +1744,7 @@
    "date": "2026-11-21",
    "japan": "YELLOW",
    "world": "YELLOW",
-   "kev_total": 1786,
+   "kev_total": 1790,
    "jpcert_notices": 31,
    "ipa_notices": 212
   }
