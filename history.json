@@ -146,5 +146,13 @@
   "kev_total": 1792,
   "jpcert_notices": 31,
   "ipa_notices": 213
+ },
+ {
+  "date": "2026-11-25",
+  "japan": "YELLOW",
+  "world": "YELLOW",
+  "kev_total": 1792,
+  "jpcert_notices": 31,
+  "ipa_notices": 213
  }
 ]
