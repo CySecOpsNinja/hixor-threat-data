@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T17:05:59.277615+00:00",
- "evaluated_at": "2026-11-24T17:05:59.277615+00:00",
+ "generated_at": "2026-11-24T20:30:58.567674+00:00",
+ "evaluated_at": "2026-11-24T20:30:58.567674+00:00",
  "calibration": {
   "active": false,
   "note": null
@@ -23,7 +23,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261124.html",
      "published_at": "2026-11-24T00:00:00+09:00",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -41,7 +41,7 @@
      "source": "JPCERT/CC",
      "link": "https://www.jpcert.or.jp/at/2026/at260033.html",
      "published_at": "2026-11-20T13:40+09:00",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -59,7 +59,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261120.html",
      "published_at": "2026-11-20T00:00:00+09:00",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -76,7 +76,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
      "published_at": "2026-11-19T00:00:00+09:00",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -91,7 +91,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
      "published_at": "2026-11-19T00:00:00+09:00",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "注意喚起",
@@ -109,7 +109,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
      "published_at": "2026-11-18T00:00:00+09:00",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
@@ -126,7 +126,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -141,7 +141,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-13",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -156,7 +156,7 @@
      "source": "JPCERT/CC",
      "link": "https://www.jpcert.or.jp/at/2026/at260035.html",
      "published_at": "2026-11-11T11:20+09:00",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
@@ -173,7 +173,7 @@
      "source": "IPA",
      "link": "https://www.ipa.go.jp/security/security-alert/2026/1111-ms.html",
      "published_at": "2026-11-11T00:00:00+09:00",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中",
      "severity_original": "注意喚起",
@@ -190,7 +190,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-10",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -205,7 +205,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-06",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
@@ -343,11 +343,56 @@
    "conflict_note": null,
    "evidence": [
     {
+     "title": "Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
+     "source": "CISA KEV",
+     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+     "published_at": "2026-11-24",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
+     "evidence_class": "W",
+     "lifecycle": "新規",
+     "severity_original": "悪用確認済み",
+     "note": null,
+     "ransomware_tier": null,
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
+    },
+    {
+     "title": "Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability",
+     "source": "CISA KEV",
+     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+     "published_at": "2026-11-24",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
+     "evidence_class": "W",
+     "lifecycle": "新規",
+     "severity_original": "悪用確認済み",
+     "note": null,
+     "ransomware_tier": null,
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
+    },
+    {
+     "title": "Drupal Core Remote Code Execution Vulnerability",
+     "source": "CISA KEV",
+     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+     "published_at": "2026-11-24",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
+     "evidence_class": "W",
+     "lifecycle": "新規",
+     "severity_original": "悪用確認済み",
+     "note": null,
+     "ransomware_tier": null,
+     "stale_source": false,
+     "content_type": "vulnerability_advisory",
+     "content_signals": []
+    },
+    {
      "title": "Project MONAI MONAI Label Path Traversal Vulnerability",
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-23",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -362,7 +407,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-23",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -377,7 +422,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-20",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -392,7 +437,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-20",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -407,7 +452,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-20",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -422,7 +467,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-20",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -437,7 +482,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "J2",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -452,7 +497,7 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
      "severity_original": "悪用確認済み",
@@ -467,54 +512,9 @@
      "source": "CISA KEV",
      "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
      "published_at": "2026-11-18",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
+     "checked_at": "2026-11-24T20:30:58.567674+00:00",
      "evidence_class": "W",
      "lifecycle": "新規",
-     "severity_original": "悪用確認済み",
-     "note": null,
-     "ransomware_tier": null,
-     "stale_source": false,
-     "content_type": "vulnerability_advisory",
-     "content_signals": []
-    },
-    {
-     "title": "Apache Axis Unsafe Reflection Vulnerability",
-     "source": "CISA KEV",
-     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-     "published_at": "2026-11-18",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
-     "evidence_class": "W",
-     "lifecycle": "新規",
-     "severity_original": "悪用確認済み",
-     "note": null,
-     "ransomware_tier": null,
-     "stale_source": false,
-     "content_type": "vulnerability_advisory",
-     "content_signals": []
-    },
-    {
-     "title": "Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
-     "source": "CISA KEV",
-     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-     "published_at": "2026-11-17",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
-     "evidence_class": "W",
-     "lifecycle": "継続中（対策なし）",
-     "severity_original": "悪用確認済み",
-     "note": null,
-     "ransomware_tier": null,
-     "stale_source": false,
-     "content_type": "vulnerability_advisory",
-     "content_signals": []
-    },
-    {
-     "title": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
-     "source": "CISA KEV",
-     "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-     "published_at": "2026-11-13",
-     "checked_at": "2026-11-24T17:05:59.277615+00:00",
-     "evidence_class": "W",
-     "lifecycle": "継続中（対策なし）",
      "severity_original": "悪用確認済み",
      "note": null,
      "ransomware_tier": null,
@@ -753,7 +753,7 @@
  "source_status": {
   "ipa": {
    "ok": true,
-   "last_success": "2026-11-24T17:05:59.277615+00:00",
+   "last_success": "2026-11-24T20:30:58.567674+00:00",
    "error": null,
    "detail": {
     "feeds": {
@@ -765,7 +765,7 @@
   },
   "jpcert": {
    "ok": true,
-   "last_success": "2026-11-24T17:05:59.277615+00:00",
+   "last_success": "2026-11-24T20:30:58.567674+00:00",
    "error": null,
    "detail": {
     "notices": 31
@@ -773,16 +773,16 @@
   },
   "cisa_kev": {
    "ok": true,
-   "last_success": "2026-11-24T17:05:59.277615+00:00",
+   "last_success": "2026-11-24T20:30:58.567674+00:00",
    "error": null,
    "detail": {
-    "catalog_total": 1792,
-    "recent_kept": 53
+    "catalog_total": 1795,
+    "recent_kept": 56
    }
   },
   "circl": {
    "ok": true,
-   "last_success": "2026-11-24T17:05:59.277615+00:00",
+   "last_success": "2026-11-24T20:30:58.567674+00:00",
    "error": null,
    "detail": {
     "recent_sample": 30,
@@ -791,7 +791,7 @@
   },
   "feodo": {
    "ok": true,
-   "last_success": "2026-11-24T17:05:59.277615+00:00",
+   "last_success": "2026-11-24T20:30:58.567674+00:00",
    "error": null,
    "detail": {
     "entries_total": 5,
@@ -802,8 +802,9 @@
  },
  "counts_context": {
   "kev": {
-   "catalog_total": 1792,
+   "catalog_total": 1795,
    "daily_added": {
+    "2026-11-24": 3,
     "2026-11-23": 2,
     "2026-11-20": 4,
     "2026-11-18": 4,
@@ -827,7 +828,7 @@
     "2026-10-13": 2
    },
    "ransomware_known_total": 362,
-   "added_last_7d": 11,
+   "added_last_7d": 14,
    "added_prev_7d": 8,
    "baseline_weekly_median": 7
   },
@@ -846,7 +847,7 @@
    "QakBot": 1
   },
   "source_updated_at": "2026-03-04 14:28:39 UTC",
-  "fetched_at": "2026-11-24T17:05:59.277615+00:00",
+  "fetched_at": "2026-11-24T20:30:58.567674+00:00",
   "held": false,
   "unavailable": false
  },
@@ -890,9 +891,9 @@
   "updated_at": "2026-11-09"
  },
  "latest_update": {
-  "at": "2026-11-24T17:05:59.277615+00:00",
+  "at": "2026-11-24T20:30:58.567674+00:00",
   "japan_new": 0,
-  "world_new": 0
+  "world_new": 3
  },
  "red_analysis": {
   "japan": [
@@ -1248,6 +1249,36 @@
    },
    {
     "item": "CVE-2026-134624",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
+   },
+   {
+    "item": "CVE-2026-132224",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
+   },
+   {
+    "item": "CVE-2026-131914",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
+   },
+   {
+    "item": "CVE-2026-132165",
     "key1": [],
     "key2": [],
     "key1_refs": [],
@@ -1617,6 +1648,36 @@
     "japan_relevant": false,
     "binding_note": null,
     "geography": null
+   },
+   {
+    "item": "CVE-2026-132224",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
+   },
+   {
+    "item": "CVE-2026-131914",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
+   },
+   {
+    "item": "CVE-2026-132165",
+    "key1": [],
+    "key2": [],
+    "key1_refs": [],
+    "red": false,
+    "japan_relevant": false,
+    "binding_note": null,
+    "geography": null
    }
   ]
  },
@@ -1779,7 +1840,7 @@
    "date": "2026-11-25",
    "japan": "YELLOW",
    "world": "YELLOW",
-   "kev_total": 1792,
+   "kev_total": 1795,
    "jpcert_notices": 31,
    "ipa_notices": 213
   }
